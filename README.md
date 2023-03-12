@@ -41,10 +41,13 @@
 <br><br><br><br><br><br><br><br><br>
 Languages:
 <br>
+<br>
 <a href="https://github.com/diptasahacse/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="[https://github-readme-streak-stats.herokuapp.com/?user=diptasahacse&theme=react&border=61dafb&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=diptasahacse&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=diptasahacse&hide_progress=true)" alt="diptasahacse" />
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptasahacse&hide_progress=true" alt="diptasahacse" />
     </a>
-
+<br>
+<br>
+<br>
 <h2 align="center">Visitors count</h2>
 <br>
 <p align="center">
