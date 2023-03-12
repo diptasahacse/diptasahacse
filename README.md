@@ -39,9 +39,6 @@
   </div>  
 </p>
 <br><br><br><br><br><br><br><br><br>
-Languages:
-<br>
-<br>
 
 <br>
 <br>
