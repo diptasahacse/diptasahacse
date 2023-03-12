@@ -42,9 +42,12 @@
 Languages:
 <br>
 <br>
-<a href="https://github.com/diptasahacse/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptasahacse&hide_progress=true" alt="diptasahacse" />
-    </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <br>
 <br>
 <br>
