@@ -39,7 +39,7 @@
   </div>  
 </p>
 <br><br><br><br><br><br><br><br><br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diptasahacse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Visitors count</h2>
 <br>
