@@ -42,12 +42,7 @@
 Languages:
 <br>
 <br>
-<a href="https://github.com/diptasahacse/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diptasahacse&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diptasahacse&repo=convoychat" />
-</a>
+
 <br>
 <br>
 <br>
